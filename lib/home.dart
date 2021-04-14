@@ -1,4 +1,3 @@
-//起動時の処理はここでやってしまう
 import 'package:flutter/material.dart';
 
 void main() {
